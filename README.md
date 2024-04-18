@@ -1,4 +1,3 @@
-# the-economist-viz
 # use excel to replicate visualization from The Economist
 # Bar plot example
 We can follow the instruction in this link to create a bar plot with the style of The Economist.
